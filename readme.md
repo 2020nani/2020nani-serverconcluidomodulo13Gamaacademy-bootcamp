@@ -1,3 +1,5 @@
+url para acessar server online
+https://gacademyherois.herokuapp.com/documentation
 //criando imagem postgress no docker
 docker run \
 --name postgres \
